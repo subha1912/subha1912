@@ -42,6 +42,6 @@ In the recent times working in the field of LLM,Deep Learning, and emerging tech
 - Portfolio: [Coming Soon 🚧]
 - LinkedIn: [Subhalakshmi's LinkedIn] www.linkedin.com/in/subha19
 - Email: `subhalakshmialagappan19@gmail.com`
-- Resume: [Download PDF]
+- Resume: [Download PDF]subhalakshmi_Resume.pdf
 
 > _“Code with curiosity. Consistency with confidence. Collaborate with kindness.”_
