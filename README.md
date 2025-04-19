@@ -1,7 +1,10 @@
+
+
 <h1 align="center">welcome to My Projects Hub🎉</h1>
 <p align="center">Data Enthusiast | curious coder | creative thinker</p>
 
-----
+![Visitor Count](https://komarev.com/ghpvc/?username=subhalakshmi&color=blue&style=flat-square)
+
 
 ### About Me!(nothing much,nothing less)
 
