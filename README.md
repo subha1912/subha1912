@@ -21,17 +21,10 @@ In the recent times working in the field of LLM,Deep Learning, and emerging tech
 
 ### 👨‍💻 Tech stacks & tools
 
-[Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Gradio](https://img.shields.io/badge/-Gradio-00B6FF?style=flat)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+<p align="center"> <a href="https://jupyter.org/" target="_blank"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"> </a> <a href="https://streamlit.io/" target="_blank"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"> </a> <a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"> </a> </p>
 
-<<p align="center">
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=subhalakshmi&show_icons=true&theme=radical" alt="Subhalakshmi's GitHub stats" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=subhalakshmi&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
