@@ -42,7 +42,7 @@ In the recent times working in the field of LLM,Deep Learning, and emerging tech
 
 📬 Say hi or check out more of my work:
 
-- Portfolio: [Coming Soon 🚧]
+- Portfolio: [Portfolio Live Demo](https://subhalakshmi-portfolio.vercel.app)
 - LinkedIn: [Subhalakshmi's LinkedIn] www.linkedin.com/in/subha19
 - Email: `subhalakshmialagappan19@gmail.com`
 - Resume: [Download PDF]subhalakshmi_Resume.pdf
